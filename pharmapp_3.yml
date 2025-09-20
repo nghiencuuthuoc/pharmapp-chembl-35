@@ -356,5 +356,6 @@ dependencies:
       - zope-interface==7.0.3
       - zopfli==0.2.3.post1
       - zstandard==0.23.0
-prefix: C:\Users\NCT\anaconda3\envs\pa3
+prefix: C:\Users\NCT\anaconda3\envs\pharmapp_3
+
 
