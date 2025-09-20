@@ -1,4 +1,4 @@
-name: pa3
+name: pharmapp_3
 channels:
   - conda-forge
   - r
@@ -357,3 +357,4 @@ dependencies:
       - zopfli==0.2.3.post1
       - zstandard==0.23.0
 prefix: C:\Users\NCT\anaconda3\envs\pa3
+
